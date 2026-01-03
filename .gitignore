@@ -6,6 +6,7 @@
 models/
 results/
 lookup_tables/
+features/
 *.h5
 *.pkl
 *.pth
